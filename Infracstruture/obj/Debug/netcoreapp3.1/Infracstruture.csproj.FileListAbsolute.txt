@@ -1,0 +1,16 @@
+C:\Users\Hegrist\source\repos\InformaSolucionChallenger\Infracstruture\obj\Debug\netcoreapp3.1\Infracstruture.csprojAssemblyReference.cache
+C:\Users\Hegrist\source\repos\InformaSolucionChallenger\Infracstruture\obj\Debug\netcoreapp3.1\Infracstruture.AssemblyInfoInputs.cache
+C:\Users\Hegrist\source\repos\InformaSolucionChallenger\Infracstruture\obj\Debug\netcoreapp3.1\Infracstruture.AssemblyInfo.cs
+C:\Users\Hegrist\source\repos\InformaSolucionChallenger\Infracstruture\obj\Debug\netcoreapp3.1\Infracstruture.csproj.CoreCompileInputs.cache
+C:\Users\Hegrist\source\repos\InformaSolucionChallenger\Infracstruture\bin\Debug\netcoreapp3.1\Infracstruture.deps.json
+C:\Users\Hegrist\source\repos\InformaSolucionChallenger\Infracstruture\bin\Debug\netcoreapp3.1\Infracstruture.dll
+C:\Users\Hegrist\source\repos\InformaSolucionChallenger\Infracstruture\bin\Debug\netcoreapp3.1\Infracstruture.pdb
+C:\Users\Hegrist\source\repos\InformaSolucionChallenger\Infracstruture\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Hegrist\source\repos\InformaSolucionChallenger\Infracstruture\bin\Debug\netcoreapp3.1\Domain.Core.dll
+C:\Users\Hegrist\source\repos\InformaSolucionChallenger\Infracstruture\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Hegrist\source\repos\InformaSolucionChallenger\Infracstruture\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Hegrist\source\repos\InformaSolucionChallenger\Infracstruture\bin\Debug\netcoreapp3.1\Domain.Core.pdb
+C:\Users\Hegrist\source\repos\InformaSolucionChallenger\Infracstruture\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Hegrist\source\repos\InformaSolucionChallenger\Infracstruture\obj\Debug\netcoreapp3.1\Infracstruture.csproj.CopyComplete
+C:\Users\Hegrist\source\repos\InformaSolucionChallenger\Infracstruture\obj\Debug\netcoreapp3.1\Infracstruture.dll
+C:\Users\Hegrist\source\repos\InformaSolucionChallenger\Infracstruture\obj\Debug\netcoreapp3.1\Infracstruture.pdb
